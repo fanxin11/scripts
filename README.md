@@ -1,3 +1,5 @@
+[Quantumult X 不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)
+
 Thanks to:
 
 @nzw9314 https://github.com/nzw9314/QuantumultX/tree/master
@@ -9,5 +11,3 @@ Thanks to:
 @yichahucha https://github.com/yichahucha/surge
 
 @lxk0301 https://github.com/lxk0301/jd_scripts
-
-[Quantumult X 不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)
