@@ -1,1 +1,1 @@
-# scripts
+For personal use
