@@ -11,3 +11,5 @@ Thanks to:
 @yichahucha https://github.com/yichahucha/surge
 
 @lxk0301 https://github.com/lxk0301/jd_scripts
+
+@yangtingxiao https://github.com/yangtingxiao/QuantumultX
