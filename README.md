@@ -4,7 +4,7 @@ Thanks to:
 
 @nzw9314 https://github.com/nzw9314/QuantumultX/tree/master
 
-@NobyDa https://github.com/NobyDa/Script
+@NobyDa https://github.com/NobyDa/Script/tree/master
 
 @chavyleung https://github.com/chavyleung/scripts
 
