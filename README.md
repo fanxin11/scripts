@@ -13,3 +13,7 @@ Thanks to:
 @lxk0301 https://github.com/lxk0301/jd_scripts
 
 @yangtingxiao https://github.com/yangtingxiao/QuantumultX
+
+@KOP-XIAO https://github.com/KOP-XIAO/QuantumultX/
+
+@ConnersHua https://github.com/ConnersHua/Quantumult
