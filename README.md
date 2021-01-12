@@ -17,3 +17,5 @@ Thanks to:
 @KOP-XIAO https://github.com/KOP-XIAO/QuantumultX/
 
 @ConnersHua https://github.com/ConnersHua/Quantumult
+
+@eHpo1 https://github.com/eHpo1/Rules
