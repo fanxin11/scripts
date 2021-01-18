@@ -2,6 +2,12 @@
 
 Thanks to:
 
+@KOP-XIAO https://github.com/KOP-XIAO/QuantumultX/
+
+@ConnersHua https://github.com/ConnersHua/Quantumult
+
+@eHpo1 https://github.com/eHpo1/Rules
+
 @nzw9314 https://github.com/nzw9314/QuantumultX/tree/master
 
 @NobyDa https://github.com/NobyDa/Script/tree/master
@@ -14,8 +20,4 @@ Thanks to:
 
 @yangtingxiao https://github.com/yangtingxiao/QuantumultX
 
-@KOP-XIAO https://github.com/KOP-XIAO/QuantumultX/
-
-@ConnersHua https://github.com/ConnersHua/Quantumult
-
-@eHpo1 https://github.com/eHpo1/Rules
+@shylocks https://github.com/shylocks/Loon
