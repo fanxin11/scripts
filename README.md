@@ -8,6 +8,8 @@ Thanks to:
 
 @eHpo1 https://github.com/eHpo1/Rules
 
+@nondanee https://github.com/nondanee/UnblockNeteaseMusic
+
 @nzw9314 https://github.com/nzw9314/QuantumultX/tree/master
 
 @NobyDa https://github.com/NobyDa/Script/tree/master
