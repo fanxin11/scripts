@@ -7,7 +7,7 @@ Thanks to:
 @ConnersHua https://github.com/ConnersHua/Quantumult
 
 @DivineEngine https://github.com/DivineEngine/Profiles/tree/master
-DivineEngine Circumvention Technology Wiki (https://www.notion.so/DivineEngine-Circumvention-Technology-Wiki-0fdb36a8d71a4151983d23fbc866759c)
+[DivineEngine Circumvention Technology Wiki](https://www.notion.so/DivineEngine-Circumvention-Technology-Wiki-0fdb36a8d71a4151983d23fbc866759c)
 
 @eHpo1 https://github.com/eHpo1/Rules
 
