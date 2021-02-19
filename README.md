@@ -29,3 +29,5 @@ https://gitee.com/lxk0301/jd_scripts/tree/master/
 @yangtingxiao https://github.com/yangtingxiao/QuantumultX
 
 @shylocks https://github.com/shylocks/Loon
+
+@whyour https://github.com/whyour/hundun/tree/master/quanx
