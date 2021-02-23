@@ -31,3 +31,5 @@ https://gitee.com/lxk0301/jd_scripts/tree/master/
 @shylocks https://github.com/shylocks/Loon
 
 @whyour https://github.com/whyour/hundun/tree/master/quanx
+
+@i-chenze https://github.com/i-chenzhe/qx
