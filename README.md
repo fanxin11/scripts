@@ -33,3 +33,23 @@ https://gitee.com/lxk0301/jd_scripts/tree/master/
 @whyour https://github.com/whyour/hundun/tree/master/quanx
 
 @i-chenze https://github.com/i-chenzhe/qx
+
+https://github.com/yqchilde/JDMemberCloseAccount
+
+https://github.com/chiupam/Notes/blob/master/Windows/python3+selenium+chrome+chromedriver.md
+
+https://github.com/SuMaiKaDe/jddockerbot/tree/master
+
+https://github.com/nianyuguai/longzhuzhu
+
+https://github.com/passerby-b/JDDJ
+
+https://yeasy.gitbook.io/docker_practice/
+
+https://docs.cfw.lbyczf.com/
+
+https://github.com/mixool/mimotion/blob/main/mimotion.sh
+
+https://hub.docker.com/r/kukudemajia/tg_cli
+
+https://alpine.pkgs.org/3.13/alpine-community-x86_64/tg-1.3.1-r13.apk.html
